@@ -12,7 +12,7 @@ pip install PySide6 sqlalchemy psycopg2
 **Установка**
 1. Клонируйте репозиторий
 Вначале клонируйте репозиторий с проектом:
-git clone https://github.com/ваш-репозиторий.git
+git clone https://github.com/YarosLoveDesigner/Zachet2
 cd ваш-репозиторий
 
 **2. Создание базы данных**
@@ -75,4 +75,4 @@ project/
 
 **Авторы**
 Никита Шишкин Анатольевич ft. Ярослав Ушаков Сергеевич 
-- Разработка приложения - GitHub
+- Разработка приложения - GitHub: https://github.com/YarosLoveDesigner/Zachet2
